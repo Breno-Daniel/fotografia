@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "homepage": "   https://breno-daniel.github.io/fotografia/"
   },
   "dependencies": {
     "classnames": "^2.5.1",
