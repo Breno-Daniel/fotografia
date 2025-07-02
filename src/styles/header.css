@@ -1,0 +1,31 @@
+/* Container que centraliza */
+.header-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+/* Box visual do header */
+.header-box {
+  background-color: #1a1a1a;
+  border: 2px solid #FFB800;
+  border-bottom-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  padding: 1.2rem 2rem;
+  margin-top: -10%;
+  width: 100%;
+  max-width: 100vh;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Título */
+.header-title {
+  color: white;
+  font-size: 2rem;
+  font-family: "Georgia", serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 0;
+}
